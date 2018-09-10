@@ -1,7 +1,7 @@
 # Turret Gun Mini Game
 Action game
 
-![TurretGunImage](https://github.com/TrongHieu90/TurretGunGame/blob/master/ImageDocs/TurretGun.gif)
+![TurretGunImage](https://github.com/TrongHieu90/TurretGunGame/blob/master/ImageDocs/TurretGun2.gif)
 
 ## There is a scene file in Sample Scene folder. Simply copy the asset folder and run the scene file inside unity to run the prototype game.
 
